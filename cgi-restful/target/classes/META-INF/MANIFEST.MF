@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cgi-restful
+Implementation-Version: 1.0.0
+Built-By: VinodhKumar
+Implementation-Vendor-Id: cgi.restful.today
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/cgi-restful/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
